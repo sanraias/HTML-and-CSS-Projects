@@ -1,0 +1,14 @@
+h1{
+text-align:center;
+text-shadow: 2px 2px #7FFFD4;
+}
+h2{
+text-align:center;
+text-shadow: 5px 5px 5px #6600ff;
+}
+p{
+color:black;
+background:yellow;
+font-weight:bold;
+text-align:center;
+}
