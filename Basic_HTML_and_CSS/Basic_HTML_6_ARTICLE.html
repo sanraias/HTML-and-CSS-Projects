@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>HTML Tags</title>
+        <style>
+            .all-browsers {
+                margin: 0;
+                padding: 5px;
+                background-color: lightgray;
+            }
+
+            .all-browsers > h1,
+            .browser {
+                margin: 10px;
+                padding: 5px;
+            }
+
+            .browser {
+                background: white;
+            }
+
+            .browser > h2,
+            p {
+                margin: 4px;
+                font-size: 90%;
+            }
+        </style>
+    </head>
+    <body>
+        <!--THIS IS ARTICLE TAG-->
+
+        <article class="all-browsers">
+            <h1>Most popular browsers</h1>
+            <article class="browser">
+                <h2>Mozilla Firefox</h2>
+                <p>
+                    Mozilla Firefox is an open-source web browser developed by Mozilla. Firefox has been the second most
+                    popular web browser since January, 2018.
+                </p>
+            </article>
+            <article class="browser">
+                <h2>Microsoft Edge</h2>
+                <p>
+                    Microsoft Edge is a web browser developed by Microsoft, released in 2015. Microsoft Edge replaced
+                    Internet Explorer.
+                </p>
+            </article>
+            <article class="browser">
+                <h2>Google Chrome</h2>
+                <p>
+                    Google Chrome is a web browser developed by Google, released in 2008. Chrome is the world's most
+                    popular web browser today!
+                </p>
+            </article>
+        </article>
+
+        <!--END OF ARTICLE TAG-->
+
+        <!--THIS IS DETAIL TAG-->
+
+        <details>
+            <summary class="all-browsers">What is a browser?</summary>
+            <p>
+                A web browser is an application for accessing websites. <br />
+                When a user requests a web page from a particular website, the browser retrieves its files from a web
+                server and then displays the page on the user's screen.
+            </p>
+        </details>
+
+        <!--END OF DETAIL TAG-->
+
+        <!--THIS IS TIME TAG-->
+
+        <p>Open from <time>10:00</time> to <time>21:00</time> every weekday.</p>
+        <p>I have a date on <time datetime="2008-02-14 20:00">Valentine's Day</time>.</p>
+
+        <!--END OF TIME-->
+    </body>
+</html>

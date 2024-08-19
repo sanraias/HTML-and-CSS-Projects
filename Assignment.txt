@@ -1,0 +1,18 @@
+<!DOCTYPEhtml>
+<html lang="en">
+<head>
+<title>The Poodle</title>
+<meta charset="utf-8">
+<meta name="description" content="Information about my favourite dog breed">
+<meta name="keywords" content="dog,poodle,pet,animal">
+</head>
+<body>
+<h1>The Poodle</h1>
+<p>The Poodle, called the Pudel in German and the Caniche in French, is a breed of water dog. The breed is divided into four varieties based on size, the Standard Poodle, Medium Poodle, Miniature Poodle and Toy Poodle, although the Medium Poodle is not universally recognised.</p>
+<h3>Temperament</h3>
+<p>Poodles are a highly intelligent, energetic, and sociable breed. A 1994 book by Stanley Corey ranked them second out of 130 breeds in "working and obedience intelligence", a measure of their ability to learn from humans. Shyness or sharpness is considered a serious fault in the breed.</p>
+<h6>Work and sport</h6>
+<p>Poodles were originally bred for waterfowl hunting.Despite this history, they are currently classified as companion dogs by the FCI. Since the late 1980s, some breeders in the United States and Canada have been selecting for dogs with drive for birds in order to revive the breed for hunting, with some success. Poodles are highly trainable dogs that typically excel in obedience training. Historically, they were a popular circus dog. In addition to hunt tests, they do well in agility and rally. They are among the most popular service dog breeds.</p>
+</body>
+</html>
+		
