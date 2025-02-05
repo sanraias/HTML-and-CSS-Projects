@@ -1,1 +1,21 @@
-https://formspree.io/f/xdknvjzk
+1. Within the “Basic JavaScript Projects” folder, create a “Project2_functions” folder. Next create a “JS” folder within the newly created “Project2_functions” folder. Then within the “JS” folder, create a new JavaScript file and name it main.js.
+
+2. Write a function that includes assigning two variables and utilizes the document.getElementById method (as covered in the previous step of the course).
+
+3. Save the file.
+
+4. Within the “Project2_functions” folder, create a new HTML file and name it “index.html.”
+
+5. Write out the basic HTML template.
+
+6. Utilize the script element and src attribute to link to your main.js file.
+
+
+
+7. Utilize the button element.
+
+8. Utilize a paragraph element and assign it the same id name as used in the document.getElementById method.
+
+9. Save the file.
+
+10. Successfully execute index.html in the browser.
